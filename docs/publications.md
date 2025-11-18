@@ -1,6 +1,5 @@
-<!--
 # Publications
-
+<!--
 ## 2025
 
 <div class="publication-card">
@@ -23,5 +22,4 @@
         </div>
     </div>
 </div>
-
 -->
