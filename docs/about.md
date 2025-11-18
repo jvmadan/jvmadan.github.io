@@ -37,7 +37,7 @@
   </div>
 </div>
 
-I'm a PhD student at the Climate Analytics Lab (FIXME-link) at the Scripps Institution of Oceanography in San Diego, researching FIXME
+I'm a PhD student at the <a href="https://climate-analytics-lab.github.io/">Climate Analytics Lab</a> at the <a href="https://scripps.ucsd.edu/">Scripps Institution of Oceanography</a> in San Diego, researching FIXME
 
 FIXME - previous experience
 
