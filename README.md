@@ -1,1 +1,1 @@
-# jvmadan.github.io
+# jvmadan.io
